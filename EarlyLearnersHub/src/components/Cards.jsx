@@ -8,6 +8,8 @@ const Cards = ({ Title ,label, styleType, img }) => {
         card3: `${baseStyle} bg-[#94F097]`,
         card4: `${baseStyle} bg-[#B59BD7]`,
         card5: `${baseStyle} bg-[#FFF492]`,
+
+        
         card6: `${baseStyle1} bg-[#FFF492]`,
         card7: `${baseStyle1} bg-[#94F097] mt-[-15vh]`,
         card8: `${baseStyle1} bg-[#FDB2B2]`,
