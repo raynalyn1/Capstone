@@ -1,5 +1,5 @@
 import React from 'react'
-import SweetAlert from '../components/SweetAlert';
+// import SweetAlert from '../components/SweetAlert';
 import Logo from '../assets/Images/logo.png';
 import rec1 from '../assets/Images/rec-1.png';
 import books from '../assets/Images/books.png'
@@ -21,14 +21,14 @@ import { useNavigate } from 'react-router-dom';
 const LandingPage = () => {
     const navigate = useNavigate();
     const handlePass = () => {
-        SweetAlert.showWarning('Login');
+        // SweetAlert.showWarning('Login');
         navigate('/Auth');
     };
 
 
     return (
         <>
-            <div className='bg-[#6EDBD0] w-full h-[8vh]'></div>
+            <div className='bg-[#6EDBD0] w-full h-[3vh]'></div>
             <img src={Logo} alt="images" className='mx-auto' />
             <div className="bg-no-repeat bg-cover w-full h-[30vh] flex gap-[30vw] px-[15vh]" style={{ backgroundImage: `url(${rec1})` }}>
                 <div className='pt-9 flex flex-col items-center gap-9'>
