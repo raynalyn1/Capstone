@@ -1,0 +1,88 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Sample Video",
+      "description": "This is a sample video description.",
+      "url": "https://sample-videos.com/video123.mp4",
+      "thumbnail": "https://sample-videos.com/img/Sample-jpg-image-50kb.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Educational Video",
+      "description": "Learn about the basics of mathematics.",
+      "url": "https://sample-videos.com/video456.mp4",
+      "thumbnail": "https://sample-videos.com/img/Sample-jpg-image-100kb.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nature Documentary",
+      "description": "Explore the wonders of nature.",
+      "url": "https://sample-videos.com/video789.mp4",
+      "thumbnail": "https://sample-videos.com/img/Sample-jpg-image-150kb.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tech Review",
+      "description": "Review of the latest gadgets and technology.",
+      "url": "https://sample-videos.com/video101.mp4",
+      "thumbnail": "https://sample-videos.com/img/Sample-jpg-image-200kb.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cooking Show",
+      "description": "Watch and learn how to cook delicious meals.",
+      "url": "https://sample-videos.com/video112.mp4",
+      "thumbnail": "https://sample-videos.com/img/Sample-jpg-image-250kb.jpg"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Sample Event",
+      "dateTime": "2024-07-25T10:00:00"
+    },
+    {
+      "id": "8097",
+      "title": "Letting u go not means I'll leave u, I just want to know if ur want me too.",
+      "dateTime": ""
+    },
+    {
+      "id": "d4df",
+      "title": "Bankai Bleach",
+      "dateTime": "2024-08-29T10:48"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "age": 22
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "age": 21
+    },
+    {
+      "id": 4,
+      "name": "Diana",
+      "age": 23
+    },
+    {
+      "id": 5,
+      "name": "Ethan",
+      "age": 24
+    },
+    {
+      "id": 6,
+      "name": "Fiona",
+      "age": 25
+    }
+  ]
+}
