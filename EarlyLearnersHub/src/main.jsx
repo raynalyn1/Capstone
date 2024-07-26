@@ -7,7 +7,6 @@ import Error from './Pages/Error';
 import LandingPageAd from './Pages/Admin/LandingPageAd';
 import Auth from './Pages/Auth';
 
-
 const router = createBrowserRouter([
   {
     path: '/',

@@ -32,7 +32,7 @@ const LandingPage = () => {
             <img src={Logo} alt="images" className='mx-auto' />
             <div className="bg-no-repeat bg-cover w-full h-[30vh] flex gap-[30vw] px-[15vh]" style={{ backgroundImage: `url(${rec1})` }}>
                 <div className='pt-9 flex flex-col items-center gap-9'>
-                    <h1 className='text-[2.5rem] font-semibold text-[#165851]'>Interactive Learning Made Fun <br /> for Kindergarten Kids!</h1>
+                    <h1 className='text-[2rem] font-semibold text-[#165851]'>Interactive Learning Made Fun <br /> for Kindergarten Kids!</h1>
                     <Buttons type="submit" label="Get Started" styleType="primary4" onClick={handlePass}/>
                 </div>
                 <img src={books} alt="Images" className='h-[80%] mt-[3vh]' />
@@ -47,7 +47,7 @@ const LandingPage = () => {
             </div>
 
             <div>
-                <h1 className='text-center text-[2rem] font-semibold'>Key Feature</h1>
+                <h1 className='text-center text-[2rem] font-semibold'>Key Features</h1>
                 <div className='bg-no-repeat bg-cover w-full h-[170vh] grid grid-cols-3 gap-[5vw] p-[15vh]' style={{ backgroundImage: `url(${back})` }}>
                     <Cards 
                     label="Selection of fun and educational games that help children learn basic skills while having fun." styleType="card" 
